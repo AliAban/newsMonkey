@@ -1,0 +1,69 @@
+{
+
+    "status": "ok",
+    "totalResults": 271,
+    
+    "articles": [
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Rich Pelley",
+            "title": "‘Which bit of the turkey is this supposed to be?!’ I ate 12 Christmas dinners in 12 days – here are the best and worst!",
+            "description": "I could eat a Christmas dinner every day – and so I did, all in the name of research. But from Wetherspoon’s to Beefeater and Toby Carvery, which chain had the perfect roasties, the best brussels and the poshest pigs in blankets?When we hear Roy Wood singing …",
+            "url": "https://www.theguardian.com/food/2022/dec/06/which-bit-of-the-turkey-is-this-supposed-to-be-i-ate-12-christmas-dinners-in-12-days-here-are-the-best-and-worst",
+            "urlToImage": "https://i.guim.co.uk/img/media/d8073fe13bed05cfbcbe7b87a6356e2d1d89660e/0_447_7218_4331/master/7218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e15ded3bfd5990bbf974e5af391a6c2",
+            "publishedAt": "2022-12-06T06:00:03Z",
+            "content": "When we hear Roy Wood singing about how he wishes it could be Christmas every day, most of us dont think of disappointing presents, endless ads for the DFS Boxing Day sale or passing out, sherry in h… [+11505 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Illegally Interrogated and Coerced Employees Trying to Unionize in Atlanta, Says U.S. Labor Board",
+            "description": "Apple violated federal law by holding mandatory anti-union meetings and interrogating and coercing employees at an Atlanta retail location, according a ruling from the National Labor Relations Board (NLRB) that was shared by Bloomberg.\n\n\n\n\n\nBack in May, emplo…",
+            "url": "https://www.macrumors.com/2022/12/05/apple-atlanta-illegal-anti-union-tactics/",
+            "urlToImage": "https://images.macrumors.com/t/PWjQRh7jF7Dh2d6ruUWdXWcEtQ4=/2000x/article-new/2022/12/atlanta-apple-store.jpg",
+            "publishedAt": "2022-12-06T01:03:24Z",
+            "content": "Apple violated federal law by holding mandatory anti-union meetings and interrogating and coercing employees at an Atlanta retail location, according a ruling from the National Labor Relations Board … [+1154 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Leo Becker",
+            "title": "Notfallwarnung DE-Alert auf iPhones: Das müssen Sie bei Cell Broadcast beachten",
+            "description": "Am 8.12. sollen die meisten iPhones in Deutschland ein lautes Alarmsignal ausgeben. Fragen und Antworten zu DE-Alert auf Apple-Geräten.",
+            "url": "https://www.heise.de/news/Notfallwarnung-DE-Alert-auf-iPhones-Das-muessen-Sie-bei-Cell-Broadcast-beachten-7366874.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/5/8/8/7/1/shutterstock_1512573812-18beec45c24b1a74.jpg",
+            "publishedAt": "2022-12-06T04:00:00Z",
+            "content": "In Deutschland können künftig Katastrophen- und Gefahrenwarnungen über \"Cell Broadcast\" verbreitet werden, der Dienst wird \"DE-Alert\" genannt. Ins Mobilfunknetz eingebuchte Handys sollen so automatis… [+5069 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Amber Neely)",
+            "title": "Apple engaged in illegal anti-union tactics, finds labor board",
+            "description": "The National Labor Relations Board has evidence that Apple used anti-union tactics to try to stop unionization efforts, including interrogating and coercing employees.Apple Cumberland MallApple has long been suspected of engaging in anti-union tactics, especi…",
+            "url": "https://appleinsider.com/articles/22/12/06/apple-engaged-in-illegal-anti-union-tactics-finds-labor-board",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/48017-93798-Apple-Cumberland-Mall-xl.jpg",
+            "publishedAt": "2022-12-06T01:46:32Z",
+            "content": "Apple Cumberland Mall\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nThe National Labor Relations Board has evidence that Apple used anti-union tactics t… [+1112 chars]"
+        }
+    ]
+
+}

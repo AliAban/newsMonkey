@@ -1,0 +1,52 @@
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+.imageSize{
+  /* max-height: 30%; */
+  height:clamp(150px, 30vh, 15rem);
+}
+
+.hoverEffect{
+  position: relative;
+}
+.hoverEffect::before{
+  content: "";
+  position: absolute;
+  inset: 0;
+  /* background-color: #646cff; */
+  box-shadow: 1rem 1rem 1rem -.25em rgba(0,0,0, .2 );
+  opacity: 0;
+  transition: opacity .5s ease;
+  pointer-events: none;
+}
+.hoverEffect:hover::before{
+  /* cursor: pointer; */
+  opacity: 1;
+}
+
+.likeACard{
+  box-shadow: 1rem -.25rem 1rem -.25em rgba(0,0,0, .2 );
+  border: 1px solid rgba(0,0,0, .1);
+  border-radius: 4px;
+
+}
+
+.cardSize{
+  height:clamp(200px, 60vh, 30rem); 
+}
