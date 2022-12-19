@@ -48,5 +48,5 @@ a:hover {
 }
 
 .cardSize{
-  height:clamp(200px, 60vh, 30rem); 
+  /* height:clamp(200px, 60vh, 30rem);  */
 }
