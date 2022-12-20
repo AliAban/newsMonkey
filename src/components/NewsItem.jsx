@@ -6,7 +6,7 @@ export default class NewsItem extends Component {
       this.props;
     return (
       <div className="card hoverEffect cardSize" style={{ width: "18rem" }}>
-        <span className="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+        <span className="position-absolute top-0 translate-middle badge rounded-pill bg-danger" style={{zIndex : "1", right:"-5%"}}>
           {this.props.source}
         </span>
         <img
