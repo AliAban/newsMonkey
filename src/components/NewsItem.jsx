@@ -17,8 +17,8 @@ export default class NewsItem extends Component {
         <div className="card-body">
           <h6 className="card-title">{title}</h6>
           <p className="card-text">{description}. . .</p>
-          <p style={{ color: "grey" }}>
-            {this.props.newsTime} hour{this.props.newsTime <= 1 ? "" : "s"} ago
+          <p style={{ color: "grey" }}>{this.props.newsTime > 1? `${this.props.newsTime} hour${this.props.newsTime <= 1 ? "" : "s"} ago`: `Less than an hour`}
+            
           </p>
           <a href={newsUrl} target="_blank" className="btn btn-primary btn-sm">
             Read More
